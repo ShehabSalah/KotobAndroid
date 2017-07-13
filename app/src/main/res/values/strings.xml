@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">هنداوي</string>
+    <string name="hindawi_hint">مؤسسة هنداوي للتعليم والثقافة</string>
+    <string name="view_all">المزيد</string>
+    <string name="search_text">بحث</string>
+    <string name="share_text">مشاركة</string>
+    <string-array name="titles">
+        <item>المكتبة</item>
+        <item>مكتبتي</item>
+    </string-array>
+
+    <string name="splash_logo">Hindawi splash logo</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

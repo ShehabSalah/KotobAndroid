@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme Colors-->
+    <color name="colorPrimary">@color/gray</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">@color/textAccentColor</color>
+
+    <color name="gray_dark">#c9c9c9</color>
+    <color name="gray">#F5F5F5</color>
+    <color name="black">#000</color>
+
+
+    <!-- Text Colors -->
+    <color name="textAccentColor">#97A11A</color>
+</resources>
